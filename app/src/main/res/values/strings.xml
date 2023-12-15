@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoldCalc Pro</string>
+    <string name="Link">
+Click <a href ="https://github.com">Github Link</a>
+    </string>
+
+</resources>
